@@ -28,3 +28,4 @@ Default annotation file
 To automatically import a specific annotation file into every video, 
 use Options > Preferences > Playback > General > Default annotation file, and point it to the KVA file you want to be loaded.
 
+!
