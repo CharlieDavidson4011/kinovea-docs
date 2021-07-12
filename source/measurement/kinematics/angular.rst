@@ -7,7 +7,7 @@ Description
 -----------
 The angular kinematics diagram displays line charts of tracked angles.
 
-This can be used to study and compare the evolution of angle, angular speed or angular acceleration over time.
+This can be used to study and compare the evolution of angle, angular speed, or angular acceleration over time.
 
 Data source
 -----------
